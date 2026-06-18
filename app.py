@@ -1,3 +1,5 @@
+# MNIST Gradio Interface - resolves Issue #1
+
 # -*- coding: utf-8 -*-
 """app.ipynb
 
